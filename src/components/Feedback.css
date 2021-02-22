@@ -1,0 +1,13 @@
+.feedback {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  margin: 10px;
+}
+.radio__group {
+}
+.app__form {
+  margin: 20px;
+  padding: 20px;
+}
